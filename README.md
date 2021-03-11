@@ -2,7 +2,7 @@
 
 Simple command line Java project. It generates sample objects based on the following hierachy of classes:
 
-![myimage-alt-tag](/uml/Top-Level Package.png)
+![myimage-alt-tag](uml/Top-Level%20package.png)
 
 
 
